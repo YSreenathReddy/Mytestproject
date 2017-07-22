@@ -20,6 +20,8 @@ public class ArrayElementAssignments {
 		Runnable[] r=new Runnable[10];
 		r[0]=new Thread();
 		
+		System.out.println("hiii");
+		
 		
 		
 				
