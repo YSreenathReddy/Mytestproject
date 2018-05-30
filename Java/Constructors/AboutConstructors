@@ -1,0 +1,25 @@
+Constructors: 
+-----------
+Rules to declare Constructors:
+ 1. Class name and Method name must be same
+ 2. Constructors able to take parameters
+ 3. Constructors will not allow return types
+ 
+ 
+ Types of Constructors:
+ 1. Default constructors
+ 2. User define constructors
+ ------------------------
+ 1. Default Constructor: 
+           1. Compiler will generate default constructor if constructor is not defined in class
+           2. As a default constructor it sill generate "0 argument" constructor
+ ---------------------------------------------------------------------------------
+ 2. User defined constructors:  
+          1. These constructors we should create
+          2. We can create 0 argument constructor,1 argument.......        
+    
+ 
+ ---------------------------------------------------
+ Constructors calling:
+ 
+ 
